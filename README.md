@@ -1,1 +1,1 @@
-Java Course by University of Helsinki
+Java Course by University of Helsinki.
